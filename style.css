@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.quiz-container h1 {
+    color: #016f9b;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+#quiz {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+}
+
+div input{
+    cursor: pointer;
+}
